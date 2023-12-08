@@ -1,3 +1,5 @@
+#Michelle Oteri
+#2252197
 import csv
 
 
